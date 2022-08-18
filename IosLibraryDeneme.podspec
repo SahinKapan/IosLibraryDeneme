@@ -10,14 +10,14 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "IosLibraryDeneme"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A short description of IosLibraryDeneme."
 
   spec.description  = <<-DESC
 		This pod will help you for Fall Detection.
                    DESC
 
-  spec.homepage     = "https://github.com/SahinKapan/IosLibraryDeneme.git"
+  spec.homepage     = "https://github.com/SahinKapan/IosLibraryDeneme"
   spec.license      = "MIT"
   spec.author             = { "SahinKapan" => "sahinkapan@2635@gmail.com" }
   spec.source       = { :git => "https://github.com/SahinKapan/IosLibraryDeneme.git", :tag => "#{spec.version}" }
